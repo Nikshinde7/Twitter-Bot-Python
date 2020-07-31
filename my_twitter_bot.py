@@ -1,5 +1,5 @@
 import tweepy
-import keys from *
+from keys import *
 
 print("hello")
 
